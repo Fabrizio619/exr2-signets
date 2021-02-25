@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/exr2-signets/static/css/main.4552954d.chunk.css",
-    "main.js": "/exr2-signets/static/js/main.50ab0099.chunk.js",
-    "main.js.map": "/exr2-signets/static/js/main.50ab0099.chunk.js.map",
+    "main.css": "/exr2-signets/static/css/main.ab44e2cb.chunk.css",
+    "main.js": "/exr2-signets/static/js/main.7f8f0799.chunk.js",
+    "main.js.map": "/exr2-signets/static/js/main.7f8f0799.chunk.js.map",
     "runtime-main.js": "/exr2-signets/static/js/runtime-main.d8f57870.js",
     "runtime-main.js.map": "/exr2-signets/static/js/runtime-main.d8f57870.js.map",
     "static/js/2.caf08180.chunk.js": "/exr2-signets/static/js/2.caf08180.chunk.js",
     "static/js/2.caf08180.chunk.js.map": "/exr2-signets/static/js/2.caf08180.chunk.js.map",
     "index.html": "/exr2-signets/index.html",
-    "static/css/main.4552954d.chunk.css.map": "/exr2-signets/static/css/main.4552954d.chunk.css.map",
+    "static/css/main.ab44e2cb.chunk.css.map": "/exr2-signets/static/css/main.ab44e2cb.chunk.css.map",
     "static/js/2.caf08180.chunk.js.LICENSE.txt": "/exr2-signets/static/js/2.caf08180.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d8f57870.js",
     "static/js/2.caf08180.chunk.js",
-    "static/css/main.4552954d.chunk.css",
-    "static/js/main.50ab0099.chunk.js"
+    "static/css/main.ab44e2cb.chunk.css",
+    "static/js/main.7f8f0799.chunk.js"
   ]
 }
