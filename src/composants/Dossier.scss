@@ -17,10 +17,13 @@
     
 
      
+    @import url(../data/liste-dossiers.json);
 
     .info {
 
         background-color: purple;
+        // background-color:map-get($couleur);
+        
         height: 130px;
         
 

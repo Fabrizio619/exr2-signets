@@ -4,10 +4,10 @@ import './ListeDossiers.scss';
 
 export default function ListeDossiers() {
   return (
-    <ul className="ListeDossiers">
+    <ul className="ListeDossiers"  >
       {
         dossTab.map( 
-          dossier =>  <li><Dossier key={dossier.id} {...dossier} /></li>
+          dossier =>  <li><Dossier key={dossier.id} {...dossier}   /></li>
         )
       }
     </ul>

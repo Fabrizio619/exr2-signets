@@ -12,11 +12,11 @@ export default function Dossier({id, titre, couleur, dateModif}) {
 
 
       
-      <div className="couverture">
+      <div  className="couverture" >
         <span className="deplacer"><NotesIcon className="NotesIcon"/></span>
-        <img src={`images-dossiers/${id}.png`} alt={titre}/>
+        <img src={`images-dossiers/${id}.png`} alt={titre} />
       </div>
-      <div className="info">
+      <div className="info" style={{backgroundColor:couleur}}>
         <h2>{titre}</h2>
         <p>{dateModif}</p>
         <button><MoreVertIcon/> </button>

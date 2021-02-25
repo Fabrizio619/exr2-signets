@@ -20,13 +20,13 @@
   {
     "id": "d4",
     "titre": "GraphQL",
-    "couleur": "#986532",
+    "couleur": "#967532",
     "dateModif": "23 décembre 2020"
   },
   {
     "id": "d5",
     "titre": "JavaScript",
-    "couleur": "#900",
+    "couleur": "#950",
     "dateModif": "3 février 2021"
   },
   {
@@ -38,7 +38,7 @@
   {
     "id": "d7",
     "titre": "Firebase",
-    "couleur": "#009",
+    "couleur": "#FF69B4",
     "dateModif": "11 janvier 2021"
   },
   {
@@ -56,7 +56,7 @@
   {
     "id": "d8",
     "titre": "GraphQL",
-    "couleur": "#986532",
+    "couleur": "#FFA500",
     "dateModif": "23 décembre 2020"
   }
 ]
